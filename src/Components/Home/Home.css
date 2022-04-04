@@ -1,0 +1,31 @@
+.product-container {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+    gap: 100px;
+}
+
+.product-details {
+    margin-right: 40px;
+    width: 700px;
+}
+
+.product-details button {
+    background-color: rgb(48, 217, 247);
+    height: 40px;
+    width: 110px;
+    border: none;
+    border-radius: 20px;
+}
+
+.product-details button:hover {
+    background-color: rgb(44, 44, 247);
+    color: white;
+    cursor: pointer;
+}
+
+.product-ing img {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}

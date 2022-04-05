@@ -1,6 +1,6 @@
 # BM ACCESSORIES
 
-live site: [BM ACCESSORIES](https://magnificent-jalebi-0c9bb6.netlify.app/jhdsda).
+live site: [BM ACCESSORIES](https://magnificent-jalebi-0c9bb6.netlify.app/home).
 
 ## About this webSite
 
@@ -14,4 +14,4 @@ live site: [BM ACCESSORIES](https://magnificent-jalebi-0c9bb6.netlify.app/jhdsda
 
 ### `live site:` 
 
-live site link: [https://magnificent-jalebi-0c9bb6.netlify.app/jhdsda](https://magnificent-jalebi-0c9bb6.netlify.app/jhdsda)
+live site link: [https://magnificent-jalebi-0c9bb6.netlify.app/home](https://magnificent-jalebi-0c9bb6.netlify.app/home)

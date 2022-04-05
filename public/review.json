@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1KVYffCC7SYFq2rBLPSdbnTKjAsGoP9Gmg",
+        "name": "Morey Olner",
+        "rating": 4.7,
+        "city": "Godong",
+        "description": "Very good computer service and sale at appropriate and affordable pricing."
+    },
+    {
+        "id": "1HYTTCjR4ZnoNw4wX77C3VXiNJBaTVbN9i",
+        "name": "Jaimie Plows",
+        "rating": 3.7,
+        "city": "Birnin Kebbi",
+        "description": "Good shop.All laptop, desktop accessories are available here. But don't take seriously when they repair/replace any part of laptop or others machines. They don't understand any value of money"
+    },
+    {
+        "id": "1MFhttT6d5s2HrQP83RatNYN1saodTUWCW",
+        "name": "Benedick Andrini",
+        "rating": 4,
+        "city": "Ostravice",
+        "description": "A computer is a device that can be instructed to carry out sequences of arithmetic or logical operations automatically. Modern computers have the ability to follow."
+    },
+    {
+        "id": "1PqZv1wCRnoypXN7btNXbfPwhfgdf1qpup",
+        "name": "Mathe Walkling",
+        "rating": 4.5,
+        "city": "Beška",
+        "description": "I only got off the bus there but it was a pleasant experience. I looked around a short distance, bought some flowers and caught a Toto rickshaw Yes it's very busy"
+    },
+    {
+        "id": "1A1GtcFQ1PVj9kTBf5Jy2sYMeqHYUwP7r9",
+        "name": "Sheri Whipple",
+        "rating": 5,
+        "city": "Rzhev",
+        "description": "2 years ago i take a hp laptop core i3 8genarration. In fact i'm big customers of hp and meet there official showroom."
+    },
+    {
+        "id": "14D51avHBfKPvu1fQDwYK46ooDoLHQa9Sd",
+        "name": "Leela Armstrong",
+        "rating": 5,
+        "city": "Boluo",
+        "description": "Best place for all your computer and phone related accessories. The behaviour of the salesman is decent, great place to buy a new desktop computer aur laptop or to repair."
+    }
+]

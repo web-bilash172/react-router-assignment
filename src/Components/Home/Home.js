@@ -27,7 +27,7 @@ const Home = () => {
             <div className='customers-review'>
 
                 {
-                    reviews.map(review => <Review
+                    reviews.map((review, index) => index < 3 && <Review
                         key={review.id}
                         review={review}
                     ></Review>)

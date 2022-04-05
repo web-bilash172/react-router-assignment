@@ -2,8 +2,10 @@ import React from 'react';
 import './Home.css'
 import useReviews from '../Hooks/useReview';
 import Review from '../Review/Review';
+import { Link } from 'react-router-dom';
 const Home = () => {
-    const [reviews, setReviews] = useReviews();
+    const [reviews, setReviews] = useReviews();  // use custome hook
+
 
     return (
         <div className='home'>
@@ -21,14 +23,18 @@ const Home = () => {
                     <img src="https://images.news18.com/ibnlive/uploads/2021/08/1628224744_hp-envy-14-laptop-1200x800.jpg?impolicy=website&width=510&height=356" alt="" />
                 </div>
             </div>
+            <h1 className='cr'>Customer's Reviews</h1>
             <div className='customers-review'>
-                <h1>Customer's Reviews</h1>
+
                 {
                     reviews.map(review => <Review
                         key={review.id}
                         review={review}
                     ></Review>)
                 }
+            </div>
+            <div className='all-reviews'>
+                <Link className='review-text' to='/reviews'>See All Reviews</Link>
             </div>
         </div>
     );

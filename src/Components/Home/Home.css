@@ -29,3 +29,33 @@
     width: 350px;
     border-radius: 50%;
 }
+
+.customers-review {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.cr {
+    text-align: center;
+    margin: 50px;
+}
+
+.all-reviews {
+
+
+    width: 160px;
+    height: 40px;
+    background-color: rgb(48, 217, 247);
+    border: none;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.review-text {
+    text-decoration: none;
+    padding: 25px;
+    color: rgb(0, 0, 0);
+}

@@ -1,10 +1,13 @@
 import React from 'react';
-
+import './Review.css'
 const Review = (props) => {
-    console.log(props.review)
+    const { name, city, rating, description } = props.review;
     return (
-        <div>
-            <h1>review please</h1>
+        <div className='review-details'>
+            <h2>{name}</h2>
+            <p>rating:{rating}</p>
+            <p>City:{city}</p>
+            <p>{description}</p>
         </div>
     );
 };
